@@ -1,6 +1,6 @@
 # Firewall Configuration Using firewalld
 
-## 📌 Objective
+##  Objective
 
 To configure and manage firewall rules using firewalld in RHEL 9 to control network access and enhance server security.
 
@@ -8,7 +8,7 @@ The goal was to allow only required services while blocking unnecessary traffic.
 
 ---
 
-## 🔧 Environment
+##  Environment
 
 - Operating System: RHEL 9
 - Firewall Service: firewalld
@@ -16,7 +16,7 @@ The goal was to allow only required services while blocking unnecessary traffic.
 
 ---
 
-## 🔥 Step 1 – Verify Firewall Status
+##  Step 1 – Verify Firewall Status
 
 Checked firewall service:
 
