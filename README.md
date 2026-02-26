@@ -88,10 +88,10 @@ This project reflects hands-on practical experience in managing and securing a L
 ![SSH Screenshot](screenshots/ssh-login.png)
 
 ### Firewall Configuration
-![Firewall Screenshot](screenshots/firewall-status.png)
+![Firewall Screenshot](screenshots/firewall.png)
 
 ### LVM Storage Setup
 ![LVM Screenshot](screenshots/lvm-setup.png)
 
 ### NFS Server Configuration
-![NFS Screenshot](screenshots/nfs-setup.png)
+![NFS Screenshot](screenshots/nfs-status.png)
