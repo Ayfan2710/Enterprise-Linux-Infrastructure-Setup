@@ -78,3 +78,20 @@ Screenshots of implementation steps are available inside the screenshots directo
 ## Conclusion
 
 This project reflects hands-on practical experience in managing and securing a Linux server environment similar to production infrastructure. It demonstrates both system administration fundamentals and real-world troubleshooting skills.
+
+
+---
+
+## Project Screenshots
+
+### SSH Key-Based Authentication
+![SSH Screenshot](screenshots/ssh-login.png)
+
+### Firewall Configuration
+![Firewall Screenshot](screenshots/firewall-status.png)
+
+### LVM Storage Setup
+![LVM Screenshot](screenshots/lvm-setup.png)
+
+### NFS Server Configuration
+![NFS Screenshot](screenshots/nfs-setup.png)
