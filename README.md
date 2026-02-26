@@ -41,6 +41,15 @@ This project reflects hands-on system administration skills aligned with RHCSA-l
 
 ---
 
+##  Documentation
+
+Detailed configuration steps are available below:
+
+- [SSH Hardening](docs/SSH-Hardening.md)
+- [Firewall Configuration](docs/Firewall-Configuration.md)
+- [LVM Implementation](docs/LVM-Implementation.md)
+- [NFS Setup](docs/NFS-Setup.md)
+- [System Security & Hardening](docs/System-Security.md)
 
 ---
 
@@ -57,3 +66,28 @@ This project reflects hands-on system administration skills aligned with RHCSA-l
 
 ### NFS Server Configuration
 ![NFS Screenshot](screenshots/nfs-status.png)
+
+---
+
+## Architecture Summary
+
+- VMware Virtual Machine running RHEL 9
+- Dedicated LVM storage disk
+- SSH secured with key authentication
+- Firewalld controlling network access
+- NFS server providing shared storage
+- SELinux enforcing security policies
+
+This architecture simulates a small-scale enterprise Linux infrastructure environment.
+
+---
+
+##  Lessons Learned
+
+- Importance of layered security (Firewall + SELinux + SSH hardening)
+- Benefits of LVM for scalable storage management
+- Practical experience managing Linux services with systemctl
+- Understanding of secure file sharing using NFS
+- Improved troubleshooting skills through log monitoring
+
+This project strengthened hands-on Linux administration capabilities aligned with RHCSA-level skills.
